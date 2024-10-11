@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PB-503\PB-503\bin\Debug\net6.0\PB-503.exe
+C:\Users\User\source\repos\PB-503\PB-503\bin\Debug\net6.0\PB-503.deps.json
+C:\Users\User\source\repos\PB-503\PB-503\bin\Debug\net6.0\PB-503.runtimeconfig.json
+C:\Users\User\source\repos\PB-503\PB-503\bin\Debug\net6.0\PB-503.dll
+C:\Users\User\source\repos\PB-503\PB-503\bin\Debug\net6.0\PB-503.pdb
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.AssemblyInfo.cs
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.sourcelink.json
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.dll
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\refint\PB-503.dll
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.pdb
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\PB-503.genruntimeconfig.cache
+C:\Users\User\source\repos\PB-503\PB-503\obj\Debug\net6.0\ref\PB-503.dll
